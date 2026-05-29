@@ -1,131 +1,116 @@
 sku_id,description,usd_price,valid_from
-2CE3-AD18-6263,AI Dev Tools:  LLM Output Gemini 2.5 Flash Text,0.000002500,2026-05-28 15:49:15
-2D39-2764-A246,AI Dev Tools:  LLM Output Gemini 3.0 Pro Text,0.000012000,2026-05-28 15:49:15
-57CA-1F66-C03F,AI Dev Tools:  LLM Input Gemini 3.0 Flash Text,0.000000500,2026-05-28 15:49:15
-5DE5-7FA0-FB2C,AI Dev Tools:  LLM Input Gemini 3.0 Pro Text,0.000002000,2026-05-28 15:49:15
-6EE2-FD8C-F638,AI Dev Tools:  LLM Input Gemini 2.5 Pro Text Long,0.000002500,2026-05-28 15:49:15
-7A58-DE34-5E8C,AI Dev Tools:  LLM Output Gemini 2.5 Pro Text,0.000010000,2026-05-28 15:49:15
-7CD8-7CE4-6F7B,AI Dev Tools:  LLM Input Gemini 2.5 Pro Text,0.000001250,2026-05-28 15:49:15
-8508-8C5B-8927,AI Dev Tools:  LLM Output Gemini 2.5 Flash Text Long,0.000002500,2026-05-28 15:49:15
-8FFB-F9B4-C1F6,AI Dev Tools:  LLM Input Gemini 2.5 Flash Lite Text,0.000000100,2026-05-28 15:49:15
-95C0-8E9E-AD60,AI Dev Tools:  LLM Input Gemini 2.5 Flash Text,0.000000300,2026-05-28 15:49:15
-9917-6B73-06BB,AI Dev Tools:  LLM Output Gemini 3.0 Flash Text,0.000003000,2026-05-28 15:49:15
-CCC0-50ED-4CE7,AI Dev Tools:  LLM Output Gemini 2.5 Pro Text Long,0.000015000,2026-05-28 15:49:15
-E639-3DC7-8B06,AI Dev Tools:  LLM Input Gemini 3.0 Pro Text Long,0.000004000,2026-05-28 15:49:15
-E7DE-0D32-3B23,AI Dev Tools:  LLM Output Gemini 3.0 Pro Text Long,0.000018000,2026-05-28 15:49:15
-EEA1-BA7E-69DC,AI Dev Tools:  LLM Output Gemini 2.5 Flash Lite Text,0.000000400,2026-05-28 15:49:15
-0127-F0B7-365E,Gemini 3 Flash Text Output - Predictions,0.000003000,2026-05-28 15:49:15
-0242-3974-7821, Gemini 2.0 Flash Live Audio Input - Predictions,0.000003000,2026-05-28 15:49:15
-0543-63CE-9019,Gemini 3.0 Pro Video Input - Predictions,0.000002000,2026-05-28 15:49:15
-05DC-292B-BA5C,Gemini 2.0 Flash Lite Audio Input - Predictions,0.000000075,2026-05-28 15:49:15
-087B-6A77-B4B6,Gemini 2.5 Flash GA Text Input (Long) - Predictions,0.000000300,2026-05-28 15:49:15
-08AD-DCFA-8728,Gemini 2.0 Flash Live Text Output - Predictions,0.000002000,2026-05-28 15:49:15
-08EC-FFFC-41AF,Gemini 1.5 Pro Text Output - Predictions,0.000001250,2026-05-28 15:49:15
-0AAE-A74F-D1C5,Gemini 2.0 Flash Live Text Input - Predictions,0.000000500,2026-05-28 15:49:15
-0BC6-7A7E-6377,Gemini 2.5 Flash Video Input (Long) - Predictions,0.000000150,2026-05-28 15:49:15
-0D55-40C7-EBAD,Gemini 2.5 Pro Thinking Text Output (Long) - Predictions,0.000015000,2026-05-28 15:49:15
-0EFD-5A47-C098,Gemini 3.0 Pro Audio Input (Long) - Predictions,0.000004000,2026-05-28 15:49:15
-10CC-DE2E-210B, Gemini 2.0 Flash Audio Input (Long) - Predictions,0.000001000,2026-05-28 15:49:15
-1127-99B9-1860,Gemini 2.0 Flash Text Input - Predictions,0.000000150,2026-05-28 15:49:15
-11C8-46BE-4E57,Gemini 2.0 Flash Lite Video Input - Predictions,0.000000075,2026-05-28 15:49:15
-15E2-D313-1697,Gemini 2.5 Flash Text Input - Predictions,0.000000150,2026-05-28 15:49:15
-1687-8DF0-DBB1,Gemini 2.5 Flash Text Input (Long) - Predictions,0.000000150,2026-05-28 15:49:15
-1707-5471-8122,Gemini 2.5 Flash Live Video Input - Predictions,0.000003000,2026-05-28 15:49:15
-1AB9-3D3A-26EC,Gemini 2.5 Pro Audio Input - Predictions,0.000001250,2026-05-28 15:49:15
-1D84-AE89-5BC0,Gemini 3.1 Flash Live Audio Input - Predictions,0.000003000,2026-05-28 15:49:15
-200F-D821-6A08,Gemini 3.0 Pro Audio Input - Predictions,0.000002000,2026-05-28 15:49:15
-212A-3063-EF12,Gemini 3.1 Flash Live Audio Output - Predictions,0.000012000,2026-05-28 15:49:15
-22C6-F9AB-E5BA,Gemini 3 Flash Video Input - Predictions,0.000000500,2026-05-28 15:49:15
-2441-0955-7C3C,Gemini 2.5 Flash GA Thinking Text Output (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-2737-2D33-D986,Gemini 3.0 Pro Text Output - Predictions,0.000012000,2026-05-28 15:49:15
-2AF0-41D8-C5F1,Gemini 2.0 Flash Text Input (Long) - Predictions,0.000000150,2026-05-28 15:49:15
-2D6E-6AC5-B1FD,Gemini 2.5 Flash Lite Text Output - Predictions,0.000000400,2026-05-28 15:49:15
-2EB0-D473-D02F,Gemini 2.0 Flash Live Video Input - Predictions,0.000003000,2026-05-28 15:49:15
-2EFD-3FCA-E77C,Gemini 3.1 Flash Lite Global Video Input - Predictions,0.000000250,2026-05-28 15:49:15
-318F-9337-94EC,Gemini 2.5 Flash GA Video Input - Predictions,0.000000300,2026-05-28 15:49:15
-34CE-11E0-D24D,Gemini 1.5 Flash Text Output - Predictions,0.000000075,2026-05-28 15:49:15
-35D1-0973-0F96,Gemini 3.1 Flash Lite Regional Text Input - Predictions,0.000000250,2026-05-28 15:49:15
-3785-6B6A-A344,Gemini 3.0 Pro Video Input (Long) - Predictions,0.000004000,2026-05-28 15:49:15
-3CE8-93F8-3C8F,Gemini 3.0 Pro Text Output (Long) - Predictions,0.000018000,2026-05-28 15:49:15
-3E15-1C58-AE73,Gemini 3.1 Flash Lite Global Audio Input - Predictions,0.000000500,2026-05-28 15:49:15
-408C-DEAD-3CFC,Gemini 2.5 Flash Live Audio Output - Predictions,0.000012000,2026-05-28 15:49:15
-40F8-A94B-659B,Gemini 2.5 Flash Text Output (Thinking On) - Predictions,0.000003500,2026-05-28 15:49:15
-42DB-BC87-C884,Gemini 2.5 Flash Live Audio Input - Predictions,0.000003000,2026-05-28 15:49:15
-4476-E8B6-F0E6,Gemini 3.1 Flash Lite Regional Text Output - Predictions,0.000001500,2026-05-28 15:49:15
-4D37-E8FB-7427,Gemini 1.5 Pro Audio Input - Predictions,0.000031250,2026-05-28 15:49:15
-4D69-506A-5D33,Gemini 2.0 Flash Lite Text Output - Predictions,0.000000300,2026-05-28 15:49:15
-4E73-15BD-0D78,Gemini 3.5 Flash Global Text Output - Predictions,0.000009000,2026-05-28 15:49:15
-4FCC-34D2-CD8E,Gemini 3.5 Flash Global Video Input - Predictions,0.000001500,2026-05-28 15:49:15
-5037-8DAA-159F,Gemini 2.0 Flash Audio Input - Predictions,0.000001000,2026-05-28 15:49:15
-5218-611B-E643,Gemini 3.1 Flash Live Text Input - Predictions,0.000000750,2026-05-28 15:49:15
-5592-AD6E-E6A9,Gemini 2.0 Flash Video Input (Long) - Predictions,0.000000150,2026-05-28 15:49:15
-5B24-F456-1F6A, Gemini 2.5 Flash Video Input - Predictions,0.000000150,2026-05-28 15:49:15
-5DA2-3F77-1CA5,Gemini 2.5 Pro Text Output - Predictions,0.000010000,2026-05-28 15:49:15
-65DD-B81F-5DE1,Gemini Pro Text Output - Predictions,0.000000375,2026-05-28 15:49:15
-68E3-D23D-3E97,Gemini 1.5 Pro Audio Input (Long) - Predictions,0.000062500,2026-05-28 15:49:15
-6C94-53E6-09B3,Gemini 2.5 Flash Lite Video Input - Predictions,0.000000100,2026-05-28 15:49:15
-6DFF-A243-AA52,Gemini 2.5 Flash Audio Input (Long) - Predictions,0.000001000,2026-05-28 15:49:15
-73E9-CEDD-A4C6,Gemini 3.5 Flash Global Audio Input - Predictions,0.000001500,2026-05-28 15:49:15
-779E-D01B-6B71,Gemini 2.5 Flash Lite Audio Input - Predictions,0.000000300,2026-05-28 15:49:15
-7B07-D9CC-0697,Gemini 2.0 Flash Live Audio Output - Predictions,0.000012000,2026-05-28 15:49:15
-7DDF-162F-B3F3,Gemini 3.1 Flash Lite Global Text Input - Predictions,0.000000250,2026-05-28 15:49:15
-7EBE-3B46-F75C,Gemini 3 Flash Text Input - Predictions,0.000000500,2026-05-28 15:49:15
-7F62-8D92-031D,Gemini 2.5 Flash Thinking Text Output (Long) - Predictions,0.000003500,2026-05-28 15:49:15
-8164-1351-B2C2,Gemini 2.5 Flash GA Audio Input - Predictions,0.000001000,2026-05-28 15:49:15
-84D6-7D54-5868,Gemini 1.5 Flash Audio Input (Long) - Predictions,0.000004000,2026-05-28 15:49:15
-86BF-467E-3651,Gemini 1.5 Flash Video Input (Long) - Predictions,0.000040000,2026-05-28 15:49:15
-870B-C735-CEAF,Gemini 2.5 Flash Text Output - Predictions,0.000000600,2026-05-28 15:49:15
-8718-34D6-CAB4,Gemini 1.5 Flash Text Input (Long) - Predictions,0.000000037,2026-05-28 15:49:15
-8A25-BB99-4B11,Gemini 1.5 Pro Video Input - Predictions,0.000328750,2026-05-28 15:49:15
-8ADF-0E5E-853F,Gemini 2.5 Flash Live Text Input - Predictions,0.000000500,2026-05-28 15:49:15
-945D-60A1-B69C,Gemini 1.5 Flash Video Input - Predictions,0.000020000,2026-05-28 15:49:15
-95D8-1CD1-785F,Gemini 3.1 Flash Live Video Input - Predictions,0.000001000,2026-05-28 15:49:15
-964B-F06E-2757,Gemini 3.1 Flash Lite Regional Audio Input - Predictions,0.000000500,2026-05-28 15:49:15
-9733-FF95-45E3,Gemini 3.5 Flash Global Text Input - Predictions,0.000001500,2026-05-28 15:49:15
-97DD-2ACF-2979,Gemini 1.5 Flash Text Output (Long) - Predictions,0.000000150,2026-05-28 15:49:15
-9887-21C3-14FD,Gemini 2.5 Pro Video Input (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-9BC3-2C66-9072,Gemini Pro Text Input - Predictions,0.000000125,2026-05-28 15:49:15
-A082-4044-243B,Gemini 1.5 Flash Audio Input - Predictions,0.000002000,2026-05-28 15:49:15
-A121-E2B5-1418,Gemini 2.5 Pro Text Input - Predictions,0.000001250,2026-05-28 15:49:15
-A193-BECC-15EC,Gemini 3.1 Flash Live Text Output - Predictions,0.000004500,2026-05-28 15:49:15
-A253-E8A3-DE5C,Gemini 2.5 Flash GA Text Output (Thinking On) - Predictions,0.000002500,2026-05-28 15:49:15
-A87E-E663-BD5F,Gemini 2.5 Pro Audio Input (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-ACF4-228D-37B4,Gemini 2.5 Flash Lite Thinking Text Output - Predictions,0.000000400,2026-05-28 15:49:15
-AF56-1BF9-492A, Gemini 2.5 Flash GA Text Output - Predictions,0.000002500,2026-05-28 15:49:15
-AFFC-D3FD-B2FC,Gemini 2.0 Flash Text Output (Long) - Predictions,0.000000600,2026-05-28 15:49:15
-B08D-AAA4-D269,Gemini 3.5 Flash Regional Text Output - Predictions,0.000009000,2026-05-28 15:49:15
-B599-63A9-9DD4,Gemini 2.5 Flash GA Text Output (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-B5E2-4C0B-7801, Gemini 2.5 Flash Text Output (Thinking On and Long) - Predictions,0.000003500,2026-05-28 15:49:15
-B665-8558-4671,Gemini 3.1 Flash Lite Regional Video Input - Predictions,0.000000250,2026-05-28 15:49:15
-B78D-D964-CC4C,Gemini 2.5 Pro Text Output (Long) - Predictions,0.000015000,2026-05-28 15:49:15
-B84E-E3E3-EC2A,Gemini 3 Flash Audio Input - Predictions,0.000001000,2026-05-28 15:49:15
-BB98-39AD-CD4E,Gemini 2.0 Flash Video Input - Predictions,0.000000150,2026-05-28 15:49:15
-C2B6-7B34-0A1B,Gemini 1.5 Flash Text Input - Predictions,0.000000018,2026-05-28 15:49:15
-C41F-C84A-F0AB,Gemini Pro Video Input - Predictions,0.002000000,2026-05-28 15:49:15
-C821-DADB-2FB9,Gemini 2.5 Flash Live Audio (AV2A) Output - Predictions,0.000012000,2026-05-28 15:49:15
-CD33-11F4-1220,Gemini 2.5 Flash GA Thinking Text Output - Predictions,0.000002500,2026-05-28 15:49:15
-CE40-3B57-D247,Gemini 2.5 Flash GA Video Input (Long) - Predictions,0.000000300,2026-05-28 15:49:15
-CF72-F84C-8E3B,Gemini 2.0 Flash Lite Text Input - Predictions,0.000000075,2026-05-28 15:49:15
-CFD3-B2E3-7217,Gemini 1.5 Pro Text Output (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-D027-ACC6-83CE,Gemini 2.5 Flash Thinking Text Output - Predictions,0.000003500,2026-05-28 15:49:15
-D465-D34B-3B1A,Gemini 1.5 Pro Video Input (Long) - Predictions,0.000657500,2026-05-28 15:49:15
-D466-7367-D7B6,Gemini 2.5 Flash Live Text Output - Predictions,0.000002000,2026-05-28 15:49:15
-D4AE-D74C-0DFC,Gemini 2.5 Pro Text Input (Long) - Predictions,0.000002500,2026-05-28 15:49:15
-D501-695C-4001,Gemini 2.5 Flash Text Output (Long) - Predictions,0.000000600,2026-05-28 15:49:15
-D92F-4232-ECE2,Gemini 2.5 Pro Video Input - Predictions,0.000001250,2026-05-28 15:49:15
-DA75-5E07-40DC,Gemini 3.1 Flash Lite Global Text Output - Predictions,0.000001500,2026-05-28 15:49:15
-DDF5-77FD-8CF2,Gemini 1.5 Pro Text Input - Predictions,0.000000312,2026-05-28 15:49:15
-DFB0-8442-43A8,Gemini 2.0 Flash Text Output - Predictions,0.000000600,2026-05-28 15:49:15
-E0A5-FB5D-79F4,Gemini 3.0 Pro Text Input (Long) - Predictions,0.000004000,2026-05-28 15:49:15
-E1D8-7C01-FA9C,Gemini 2.5 Flash GA Text Output (Thinking On and Long) - Predictions,0.000002500,2026-05-28 15:49:15
-E320-4602-118A,Gemini 3.1 Flash Live Video Output - Predictions,0.000002000,2026-05-28 15:49:15
-E367-697F-F274,Gemini 2.5 Pro Thinking Text Output - Predictions,0.000010000,2026-05-28 15:49:15
-E52D-D4C1-42BD,Gemini 3.5 Flash Regional Text Input - Predictions,0.000001500,2026-05-28 15:49:15
-EAC4-305F-1249,Gemini 3.0 Pro Text Input - Predictions,0.000002000,2026-05-28 15:49:15
-ED99-92A5-E00B,Gemini 2.5 Flash GA Audio Input (Long) - Predictions,0.000001000,2026-05-28 15:49:15
-F128-1FF9-650C,Gemini 2.5 Flash Audio Input - Predictions,0.000001000,2026-05-28 15:49:15
-F1E4-4F02-4119,Gemini 1.5 Pro Text Input (Long) - Predictions,0.000000625,2026-05-28 15:49:15
-F83A-4488-AA93,Gemini 3.5 Flash Regional Audio Input - Predictions,0.000001500,2026-05-28 15:49:15
-F91E-007E-3BA1,Gemini 2.5 Flash Lite Text Input - Predictions,0.000000100,2026-05-28 15:49:15
-FDAB-647C-5A22,Gemini 2.5 Flash GA Text Input - Predictions,0.000000300,2026-05-28 15:49:15
-FF37-A357-F1EA,Gemini 3.5 Flash Regional Video Input - Predictions,0.000001500,2026-05-28 15:49:15
+0127-F0B7-365E,Gemini 3 Flash Text Output - Predictions,0.000003000,2026-05-29 09:06:28
+0242-3974-7821, Gemini 2.0 Flash Live Audio Input - Predictions,0.000003000,2026-05-29 09:06:28
+0543-63CE-9019,Gemini 3.0 Pro Video Input - Predictions,0.000002000,2026-05-29 09:06:28
+05DC-292B-BA5C,Gemini 2.0 Flash Lite Audio Input - Predictions,0.000000075,2026-05-29 09:06:28
+087B-6A77-B4B6,Gemini 2.5 Flash GA Text Input (Long) - Predictions,0.000000300,2026-05-29 09:06:28
+08AD-DCFA-8728,Gemini 2.0 Flash Live Text Output - Predictions,0.000002000,2026-05-29 09:06:28
+08EC-FFFC-41AF,Gemini 1.5 Pro Text Output - Predictions,0.000001250,2026-05-29 09:06:28
+0AAE-A74F-D1C5,Gemini 2.0 Flash Live Text Input - Predictions,0.000000500,2026-05-29 09:06:28
+0BC6-7A7E-6377,Gemini 2.5 Flash Video Input (Long) - Predictions,0.000000150,2026-05-29 09:06:28
+0D55-40C7-EBAD,Gemini 2.5 Pro Thinking Text Output (Long) - Predictions,0.000015000,2026-05-29 09:06:28
+0EFD-5A47-C098,Gemini 3.0 Pro Audio Input (Long) - Predictions,0.000004000,2026-05-29 09:06:28
+10CC-DE2E-210B, Gemini 2.0 Flash Audio Input (Long) - Predictions,0.000001000,2026-05-29 09:06:28
+1127-99B9-1860,Gemini 2.0 Flash Text Input - Predictions,0.000000150,2026-05-29 09:06:28
+11C8-46BE-4E57,Gemini 2.0 Flash Lite Video Input - Predictions,0.000000075,2026-05-29 09:06:28
+15E2-D313-1697,Gemini 2.5 Flash Text Input - Predictions,0.000000150,2026-05-29 09:06:28
+1687-8DF0-DBB1,Gemini 2.5 Flash Text Input (Long) - Predictions,0.000000150,2026-05-29 09:06:28
+1707-5471-8122,Gemini 2.5 Flash Live Video Input - Predictions,0.000003000,2026-05-29 09:06:28
+1AB9-3D3A-26EC,Gemini 2.5 Pro Audio Input - Predictions,0.000001250,2026-05-29 09:06:28
+1D84-AE89-5BC0,Gemini 3.1 Flash Live Audio Input - Predictions,0.000003000,2026-05-29 09:06:28
+200F-D821-6A08,Gemini 3.0 Pro Audio Input - Predictions,0.000002000,2026-05-29 09:06:28
+212A-3063-EF12,Gemini 3.1 Flash Live Audio Output - Predictions,0.000012000,2026-05-29 09:06:28
+22C6-F9AB-E5BA,Gemini 3 Flash Video Input - Predictions,0.000000500,2026-05-29 09:06:28
+2441-0955-7C3C,Gemini 2.5 Flash GA Thinking Text Output (Long) - Predictions,0.000002500,2026-05-29 09:06:28
+2737-2D33-D986,Gemini 3.0 Pro Text Output - Predictions,0.000012000,2026-05-29 09:06:28
+2AF0-41D8-C5F1,Gemini 2.0 Flash Text Input (Long) - Predictions,0.000000150,2026-05-29 09:06:28
+2D6E-6AC5-B1FD,Gemini 2.5 Flash Lite Text Output - Predictions,0.000000400,2026-05-29 09:06:28
+2EB0-D473-D02F,Gemini 2.0 Flash Live Video Input - Predictions,0.000003000,2026-05-29 09:06:28
+2EFD-3FCA-E77C,Gemini 3.1 Flash Lite Global Video Input - Predictions,0.000000250,2026-05-29 09:06:28
+318F-9337-94EC,Gemini 2.5 Flash GA Video Input - Predictions,0.000000300,2026-05-29 09:06:28
+34CE-11E0-D24D,Gemini 1.5 Flash Text Output - Predictions,0.000000075,2026-05-29 09:06:28
+35D1-0973-0F96,Gemini 3.1 Flash Lite Regional Text Input - Predictions,0.000000250,2026-05-29 09:06:28
+3785-6B6A-A344,Gemini 3.0 Pro Video Input (Long) - Predictions,0.000004000,2026-05-29 09:06:28
+3CE8-93F8-3C8F,Gemini 3.0 Pro Text Output (Long) - Predictions,0.000018000,2026-05-29 09:06:28
+3E15-1C58-AE73,Gemini 3.1 Flash Lite Global Audio Input - Predictions,0.000000500,2026-05-29 09:06:28
+408C-DEAD-3CFC,Gemini 2.5 Flash Live Audio Output - Predictions,0.000012000,2026-05-29 09:06:28
+40F8-A94B-659B,Gemini 2.5 Flash Text Output (Thinking On) - Predictions,0.000003500,2026-05-29 09:06:28
+42DB-BC87-C884,Gemini 2.5 Flash Live Audio Input - Predictions,0.000003000,2026-05-29 09:06:28
+4476-E8B6-F0E6,Gemini 3.1 Flash Lite Regional Text Output - Predictions,0.000001500,2026-05-29 09:06:28
+4D37-E8FB-7427,Gemini 1.5 Pro Audio Input - Predictions,0.000031250,2026-05-29 09:06:28
+4D69-506A-5D33,Gemini 2.0 Flash Lite Text Output - Predictions,0.000000300,2026-05-29 09:06:28
+4E73-15BD-0D78,Gemini 3.5 Flash Global Text Output - Predictions,0.000009000,2026-05-29 09:06:28
+4FCC-34D2-CD8E,Gemini 3.5 Flash Global Video Input - Predictions,0.000001500,2026-05-29 09:06:28
+5037-8DAA-159F,Gemini 2.0 Flash Audio Input - Predictions,0.000001000,2026-05-29 09:06:28
+5218-611B-E643,Gemini 3.1 Flash Live Text Input - Predictions,0.000000750,2026-05-29 09:06:28
+5592-AD6E-E6A9,Gemini 2.0 Flash Video Input (Long) - Predictions,0.000000150,2026-05-29 09:06:28
+5B24-F456-1F6A, Gemini 2.5 Flash Video Input - Predictions,0.000000150,2026-05-29 09:06:28
+5DA2-3F77-1CA5,Gemini 2.5 Pro Text Output - Predictions,0.000010000,2026-05-29 09:06:28
+65DD-B81F-5DE1,Gemini Pro Text Output - Predictions,0.000000375,2026-05-29 09:06:28
+68E3-D23D-3E97,Gemini 1.5 Pro Audio Input (Long) - Predictions,0.000062500,2026-05-29 09:06:28
+6C94-53E6-09B3,Gemini 2.5 Flash Lite Video Input - Predictions,0.000000100,2026-05-29 09:06:28
+6DFF-A243-AA52,Gemini 2.5 Flash Audio Input (Long) - Predictions,0.000001000,2026-05-29 09:06:28
+73E9-CEDD-A4C6,Gemini 3.5 Flash Global Audio Input - Predictions,0.000001500,2026-05-29 09:06:28
+779E-D01B-6B71,Gemini 2.5 Flash Lite Audio Input - Predictions,0.000000300,2026-05-29 09:06:28
+7B07-D9CC-0697,Gemini 2.0 Flash Live Audio Output - Predictions,0.000012000,2026-05-29 09:06:28
+7DDF-162F-B3F3,Gemini 3.1 Flash Lite Global Text Input - Predictions,0.000000250,2026-05-29 09:06:28
+7EBE-3B46-F75C,Gemini 3 Flash Text Input - Predictions,0.000000500,2026-05-29 09:06:28
+7F62-8D92-031D,Gemini 2.5 Flash Thinking Text Output (Long) - Predictions,0.000003500,2026-05-29 09:06:28
+8164-1351-B2C2,Gemini 2.5 Flash GA Audio Input - Predictions,0.000001000,2026-05-29 09:06:28
+84D6-7D54-5868,Gemini 1.5 Flash Audio Input (Long) - Predictions,0.000004000,2026-05-29 09:06:28
+86BF-467E-3651,Gemini 1.5 Flash Video Input (Long) - Predictions,0.000040000,2026-05-29 09:06:28
+870B-C735-CEAF,Gemini 2.5 Flash Text Output - Predictions,0.000000600,2026-05-29 09:06:28
+8718-34D6-CAB4,Gemini 1.5 Flash Text Input (Long) - Predictions,0.000000037,2026-05-29 09:06:28
+8A25-BB99-4B11,Gemini 1.5 Pro Video Input - Predictions,0.000328750,2026-05-29 09:06:28
+8ADF-0E5E-853F,Gemini 2.5 Flash Live Text Input - Predictions,0.000000500,2026-05-29 09:06:28
+945D-60A1-B69C,Gemini 1.5 Flash Video Input - Predictions,0.000020000,2026-05-29 09:06:28
+95D8-1CD1-785F,Gemini 3.1 Flash Live Video Input - Predictions,0.000001000,2026-05-29 09:06:28
+964B-F06E-2757,Gemini 3.1 Flash Lite Regional Audio Input - Predictions,0.000000500,2026-05-29 09:06:28
+9733-FF95-45E3,Gemini 3.5 Flash Global Text Input - Predictions,0.000001500,2026-05-29 09:06:28
+97DD-2ACF-2979,Gemini 1.5 Flash Text Output (Long) - Predictions,0.000000150,2026-05-29 09:06:28
+9887-21C3-14FD,Gemini 2.5 Pro Video Input (Long) - Predictions,0.000002500,2026-05-29 09:06:28
+9BC3-2C66-9072,Gemini Pro Text Input - Predictions,0.000000125,2026-05-29 09:06:28
+A082-4044-243B,Gemini 1.5 Flash Audio Input - Predictions,0.000002000,2026-05-29 09:06:29
+A121-E2B5-1418,Gemini 2.5 Pro Text Input - Predictions,0.000001250,2026-05-29 09:06:29
+A193-BECC-15EC,Gemini 3.1 Flash Live Text Output - Predictions,0.000004500,2026-05-29 09:06:29
+A253-E8A3-DE5C,Gemini 2.5 Flash GA Text Output (Thinking On) - Predictions,0.000002500,2026-05-29 09:06:29
+A87E-E663-BD5F,Gemini 2.5 Pro Audio Input (Long) - Predictions,0.000002500,2026-05-29 09:06:29
+ACF4-228D-37B4,Gemini 2.5 Flash Lite Thinking Text Output - Predictions,0.000000400,2026-05-29 09:06:29
+AF56-1BF9-492A, Gemini 2.5 Flash GA Text Output - Predictions,0.000002500,2026-05-29 09:06:29
+AFFC-D3FD-B2FC,Gemini 2.0 Flash Text Output (Long) - Predictions,0.000000600,2026-05-29 09:06:29
+B08D-AAA4-D269,Gemini 3.5 Flash Regional Text Output - Predictions,0.000009000,2026-05-29 09:06:29
+B599-63A9-9DD4,Gemini 2.5 Flash GA Text Output (Long) - Predictions,0.000002500,2026-05-29 09:06:29
+B5E2-4C0B-7801, Gemini 2.5 Flash Text Output (Thinking On and Long) - Predictions,0.000003500,2026-05-29 09:06:29
+B665-8558-4671,Gemini 3.1 Flash Lite Regional Video Input - Predictions,0.000000250,2026-05-29 09:06:29
+B78D-D964-CC4C,Gemini 2.5 Pro Text Output (Long) - Predictions,0.000015000,2026-05-29 09:06:29
+B84E-E3E3-EC2A,Gemini 3 Flash Audio Input - Predictions,0.000001000,2026-05-29 09:06:29
+BB98-39AD-CD4E,Gemini 2.0 Flash Video Input - Predictions,0.000000150,2026-05-29 09:06:29
+C2B6-7B34-0A1B,Gemini 1.5 Flash Text Input - Predictions,0.000000018,2026-05-29 09:06:29
+C41F-C84A-F0AB,Gemini Pro Video Input - Predictions,0.002000000,2026-05-29 09:06:29
+C821-DADB-2FB9,Gemini 2.5 Flash Live Audio (AV2A) Output - Predictions,0.000012000,2026-05-29 09:06:29
+CD33-11F4-1220,Gemini 2.5 Flash GA Thinking Text Output - Predictions,0.000002500,2026-05-29 09:06:29
+CE40-3B57-D247,Gemini 2.5 Flash GA Video Input (Long) - Predictions,0.000000300,2026-05-29 09:06:29
+CF72-F84C-8E3B,Gemini 2.0 Flash Lite Text Input - Predictions,0.000000075,2026-05-29 09:06:29
+CFD3-B2E3-7217,Gemini 1.5 Pro Text Output (Long) - Predictions,0.000002500,2026-05-29 09:06:29
+D027-ACC6-83CE,Gemini 2.5 Flash Thinking Text Output - Predictions,0.000003500,2026-05-29 09:06:29
+D465-D34B-3B1A,Gemini 1.5 Pro Video Input (Long) - Predictions,0.000657500,2026-05-29 09:06:29
+D466-7367-D7B6,Gemini 2.5 Flash Live Text Output - Predictions,0.000002000,2026-05-29 09:06:29
+D4AE-D74C-0DFC,Gemini 2.5 Pro Text Input (Long) - Predictions,0.000002500,2026-05-29 09:06:29
+D501-695C-4001,Gemini 2.5 Flash Text Output (Long) - Predictions,0.000000600,2026-05-29 09:06:29
+D92F-4232-ECE2,Gemini 2.5 Pro Video Input - Predictions,0.000001250,2026-05-29 09:06:29
+DA75-5E07-40DC,Gemini 3.1 Flash Lite Global Text Output - Predictions,0.000001500,2026-05-29 09:06:29
+DDF5-77FD-8CF2,Gemini 1.5 Pro Text Input - Predictions,0.000000312,2026-05-29 09:06:29
+DFB0-8442-43A8,Gemini 2.0 Flash Text Output - Predictions,0.000000600,2026-05-29 09:06:29
+E0A5-FB5D-79F4,Gemini 3.0 Pro Text Input (Long) - Predictions,0.000004000,2026-05-29 09:06:29
+E1D8-7C01-FA9C,Gemini 2.5 Flash GA Text Output (Thinking On and Long) - Predictions,0.000002500,2026-05-29 09:06:29
+E320-4602-118A,Gemini 3.1 Flash Live Video Output - Predictions,0.000002000,2026-05-29 09:06:29
+E367-697F-F274,Gemini 2.5 Pro Thinking Text Output - Predictions,0.000010000,2026-05-29 09:06:29
+E52D-D4C1-42BD,Gemini 3.5 Flash Regional Text Input - Predictions,0.000001500,2026-05-29 09:06:29
+EAC4-305F-1249,Gemini 3.0 Pro Text Input - Predictions,0.000002000,2026-05-29 09:06:29
+ED99-92A5-E00B,Gemini 2.5 Flash GA Audio Input (Long) - Predictions,0.000001000,2026-05-29 09:06:29
+F128-1FF9-650C,Gemini 2.5 Flash Audio Input - Predictions,0.000001000,2026-05-29 09:06:29
+F1E4-4F02-4119,Gemini 1.5 Pro Text Input (Long) - Predictions,0.000000625,2026-05-29 09:06:29
+F83A-4488-AA93,Gemini 3.5 Flash Regional Audio Input - Predictions,0.000001500,2026-05-29 09:06:29
+F91E-007E-3BA1,Gemini 2.5 Flash Lite Text Input - Predictions,0.000000100,2026-05-29 09:06:29
+FDAB-647C-5A22,Gemini 2.5 Flash GA Text Input - Predictions,0.000000300,2026-05-29 09:06:29
+FF37-A357-F1EA,Gemini 3.5 Flash Regional Video Input - Predictions,0.000001500,2026-05-29 09:06:29
