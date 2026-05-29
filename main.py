@@ -1,6 +1,6 @@
 import os
 from google_pricing_api import get_gemini_pricing
-from database import read_pricing_data, append_pricing_data
+from storage import read_pricing_data, append_pricing_data
 
 PRICING_CSV_FILE = 'pricing.csv'
 

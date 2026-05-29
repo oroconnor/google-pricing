@@ -2,9 +2,9 @@ import unittest
 import os
 import csv
 from datetime import datetime
-from database import read_pricing_data, write_pricing_data
+from storage import read_pricing_data, write_pricing_data
 
-class TestDatabase(unittest.TestCase):
+class TestStorage(unittest.TestCase):
     def setUp(self):
         self.test_csv_file = 'test_pricing.csv'
         # Ensure the test CSV is clean before each test
