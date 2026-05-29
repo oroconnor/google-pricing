@@ -42,6 +42,7 @@ def get_gemini_pricing():
         'priority',
         'flex',
         'embedding',
+        'ai dev tools',
     ]
 
     gemini_skus = []
