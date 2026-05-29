@@ -10,3 +10,7 @@ venv/
 # Service Account Keys
 service_account.json
 *.json
+!api_snapshot.json
+
+# Utility scripts
+snapshot.py
