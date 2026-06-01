@@ -10,19 +10,29 @@ Steps:
   5. Write cost_usd back to api_requests
 """
 import os
-import sys
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from dotenv import load_dotenv
 load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env'))
 
 import functions_framework
 import psycopg2
+from google.cloud.sql.connector import Connector
 from google_pricing_api import get_gemini_pricing
 from pricing_db import upsert_pricing
 
 
 def get_db_connection():
+    instance = os.environ.get('INSTANCE_CONNECTION_NAME')
+    if instance:
+        # Production: Cloud SQL Python Connector (no socket mounting needed)
+        connector = Connector()
+        return connector.connect(
+            instance,
+            "pg8000",
+            user=os.environ['DB_USER'],
+            password=os.environ['DB_PASS'],
+            db=os.environ['DB_NAME'],
+        )
+    # Local dev: direct connection via DATABASE_URL
     return psycopg2.connect(os.environ['DATABASE_URL'])
 
 
