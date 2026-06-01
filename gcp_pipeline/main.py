@@ -13,6 +13,9 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from dotenv import load_dotenv
+load_dotenv()
+
 import psycopg2
 from google_pricing_api import get_gemini_pricing
 from pricing_db import upsert_pricing

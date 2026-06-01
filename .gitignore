@@ -14,3 +14,7 @@ service_account.json
 
 # Utility scripts
 snapshot.py
+
+# Local environment variables
+.env
+**/.env
