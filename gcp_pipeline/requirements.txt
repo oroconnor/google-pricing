@@ -1,0 +1,3 @@
+google-cloud-billing
+google-auth
+psycopg2-binary

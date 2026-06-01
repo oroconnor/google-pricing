@@ -1,4 +1,7 @@
 import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from google_pricing_api import get_gemini_pricing
 from storage import read_pricing_data, append_pricing_data
 

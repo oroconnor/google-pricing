@@ -28,7 +28,7 @@ jobs:
         run: echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}' > service_account.json
 
       - name: Run pricing update
-        run: python main.py
+        run: python csv_pipeline/main.py
 
       - name: Commit updated pricing.csv
         run: |
