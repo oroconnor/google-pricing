@@ -2,3 +2,4 @@ google-cloud-billing
 google-auth
 psycopg2-binary
 python-dotenv
+functions-framework

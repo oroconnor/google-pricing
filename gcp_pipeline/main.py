@@ -1,6 +1,6 @@
 """
 GCP Production Pipeline entry point.
-Designed to run as a Cloud Run Job triggered by Cloud Scheduler.
+Deployed as a Cloud Function (Gen 2), triggered daily by Cloud Scheduler.
 
 Steps:
   1. Fetch current Gemini pricing from Google Cloud Billing API
@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from dotenv import load_dotenv
 load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env'))
 
+import functions_framework
 import psycopg2
 from google_pricing_api import get_gemini_pricing
 from pricing_db import upsert_pricing
@@ -42,6 +43,13 @@ def main():
         conn.close()
 
     # Steps 3-5: cost calculation (coming soon)
+
+
+@functions_framework.http
+def run_pricing_update(request):
+    """Cloud Functions entry point. Triggered by Cloud Scheduler via HTTP."""
+    main()
+    return 'OK', 200
 
 
 if __name__ == '__main__':
