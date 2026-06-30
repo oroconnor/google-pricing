@@ -122,3 +122,8 @@ FF37-A357-F1EA,Gemini 3.5 Flash Regional Video Input - Predictions,0.000001500,2
 1980-E7D2-E08D,Gemini 3.5 Flash Tuned Regional Audio Input - Predictions,0.000002250,2026-06-06 08:29:36
 28B3-3352-BF8F,Gemini 3.5 Flash Tuned Regional Text Output - Predictions,0.000013500,2026-06-06 08:29:36
 8584-E17D-29EF,Gemini 3.5 Flash Tuned Regional Video Input - Predictions,0.000002250,2026-06-06 08:29:36
+0A59-79A3-584E,Gemini Omni Flash Global Text Input,0.000001500,2026-06-30 09:26:45
+2826-BFA4-A0A0,Gemini Omni Flash Global Audio Input,0.000001500,2026-06-30 09:26:45
+6FF0-3E82-E46F,Gemini Omni Flash Global Video Input,0.000001500,2026-06-30 09:26:45
+83E8-F1AB-8C54,Gemini Omni Flash Global Video Output,0.000017500,2026-06-30 09:26:45
+C238-3A7C-4DB5,Gemini Omni Flash Global Text Output,0.000009000,2026-06-30 09:26:45
