@@ -135,3 +135,28 @@ B665-8558-4671,Gemini 3.1 Flash Lite Regional Video Input - Predictions,0.000000
 E52D-D4C1-42BD,Gemini 3.5 Flash Regional Text Input - Predictions,0.000001650,2026-07-02 08:50:29
 F83A-4488-AA93,Gemini 3.5 Flash Regional Audio Input - Predictions,0.000001650,2026-07-02 08:50:29
 FF37-A357-F1EA,Gemini 3.5 Flash Regional Video Input - Predictions,0.000001650,2026-07-02 08:50:29
+0D22-69DC-ED14,CodeMender Gemini 3.1 Pro Global Text Output - Predictions,0.000012000,2026-07-21 08:20:53
+0E7E-AAFF-3F22,CodeMender Gemini 3 Flash Global Text Output - Predictions,0.000003000,2026-07-21 08:20:53
+1885-00D9-47BC,Gemini 3.6 Flash Global Text Output - Predictions,0.000009000,2026-07-21 08:20:53
+21D4-A61C-277B,Gemini 3.6 Flash Regional Text Input - Predictions,0.000001650,2026-07-21 08:20:53
+255D-4FF7-8DB3,Gemini 3.5 Flash Lite Global Text Input - Predictions,0.000000250,2026-07-21 08:20:53
+284C-F201-7A09,CodeMender Gemini 3 Flash Global Text Input - Predictions,0.000000500,2026-07-21 08:20:53
+2E38-F7FA-3F52,Gemini 3.5 Flash Lite Regional Video Input - Predictions,0.000000275,2026-07-21 08:20:53
+2E9A-0373-AAF3,Gemini 3.6 Flash Global Video Input - Predictions,0.000001500,2026-07-21 08:20:53
+35D2-0910-3692,CodeMender Gemini 3.1 Pro Global Text Input - Predictions,0.000000200,2026-07-21 08:20:53
+40F4-79E1-70C0,Gemini 3.5 Flash Lite Regional Audio Input - Predictions,0.000000550,2026-07-21 08:20:53
+48FC-2F94-00FA,Gemini 3.6 Flash Regional Audio Input - Predictions,0.000001650,2026-07-21 08:20:53
+6988-3206-9BC4,Gemini 3.5 Flash Lite Global Video Input - Predictions,0.000000250,2026-07-21 08:20:53
+93A9-ABC9-A1B1,Gemini 3.5 Flash Lite Global Audio Input - Predictions,0.000000500,2026-07-21 08:20:53
+A078-09CB-E461,Gemini 3.5 Flash Lite Regional Text Input - Predictions,0.000000275,2026-07-21 08:20:53
+A2B1-E970-000C,Gemini 3.6 Flash Global Text Input - Predictions,0.000001500,2026-07-21 08:20:53
+A841-F27B-EE62,Gemini 3.5 Flash Lite Regional Text Output - Predictions,0.000001650,2026-07-21 08:20:53
+ACB1-637C-8F83,CodeMender Gemini 3.5 Flash Global Text Input - Predictions,0.000001500,2026-07-21 08:20:53
+CAF8-9360-75F2,CodeMender Gemini 3.5 Flash Global Text Output - Predictions,0.000009000,2026-07-21 08:20:53
+D558-1938-B8A1,CodeMender Gemini 3.5 Flash Global Text Input - Predictions,0.000000150,2026-07-21 08:20:53
+D79C-81FB-845B,Gemini 3.6 Flash Regional Text Output - Predictions,0.000009900,2026-07-21 08:20:53
+DB89-C49B-C480,Gemini 3.6 Flash Global Audio Input - Predictions,0.000001500,2026-07-21 08:20:53
+E121-AC53-3D2A,CodeMender Gemini 3.1 Pro Global Text Input - Predictions,0.000002000,2026-07-21 08:20:53
+EAFC-D2B9-929E,Gemini 3.6 Flash Regional Video Input - Predictions,0.000001650,2026-07-21 08:20:53
+EF3E-6ED9-3CD1,Gemini 3.5 Flash Lite Global Text Output - Predictions,0.000001500,2026-07-21 08:20:53
+FD9A-AE2F-9920,CodeMender Gemini 3 Flash Global Text Input - Predictions,0.000000050,2026-07-21 08:20:53
