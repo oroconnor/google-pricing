@@ -171,3 +171,7 @@ A841-F27B-EE62,Gemini 3.5 Flash Lite Regional Text Output - Predictions,0.000002
 D79C-81FB-845B,Gemini 3.6 Flash Regional Text Output - Predictions,0.000008250,2026-07-22 08:21:12
 EF3E-6ED9-3CD1,Gemini 3.5 Flash Lite Global Text Output - Predictions,0.000002500,2026-07-22 08:21:12
 28B3-3352-BF8F,Gemini 3.5 Flash Tuned Regional Text Output - Predictions,0.000014850,2026-08-02 08:15:15
+081A-DA97-01BD,Gemini 3.5 Flash Tuned Regional Text Input - Predictions,0.000002475,2026-08-09 06:48:33
+1980-E7D2-E08D,Gemini 3.5 Flash Tuned Regional Audio Input - Predictions,0.000002475,2026-08-09 06:48:33
+4A44-7568-9829,Gemini 3.1 Flash Lite Tuned Regional Text Output - Predictions,0.000002475,2026-08-09 06:48:33
+8584-E17D-29EF,Gemini 3.5 Flash Tuned Regional Video Input - Predictions,0.000002475,2026-08-09 06:48:33
