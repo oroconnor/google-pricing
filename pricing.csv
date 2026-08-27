@@ -219,3 +219,7 @@ F72F-7EFA-F44E,Gemini 3.6 Flash Global Video Input - Off-Peak Predictions,0.0000
 F8F3-0538-CB16,Gemini 3.5 Flash Regional Text Input - Off-Peak Predictions,0.000000825,2026-08-21 06:38:03
 0F2A-B0A2-616B,Gemini 3.5 Live Translate Audio Output - Predictions,0.000021000,2026-08-26 06:39:50
 9F47-B1B6-981C,Gemini 3.5 Live Translate Audio Input - Predictions,0.000003500,2026-08-26 06:39:50
+068D-61AF-06D3,CodeMender Gemini 3.7 Flash Global Text Input,0.000001500,2026-08-27 17:15:32
+0829-F88F-BA32,CodeMender Gemini 3.6 Flash Global Text Input,0.000001500,2026-08-27 17:15:32
+5906-2735-BA51,CodeMender Gemini 3.6 Flash Global Text Output,0.000007500,2026-08-27 17:15:32
+B9E8-4D51-B276,CodeMender Gemini 3.7 Flash Global Text Output,0.000007500,2026-08-27 17:15:33
