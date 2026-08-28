@@ -223,3 +223,7 @@ F8F3-0538-CB16,Gemini 3.5 Flash Regional Text Input - Off-Peak Predictions,0.000
 0829-F88F-BA32,CodeMender Gemini 3.6 Flash Global Text Input,0.000001500,2026-08-27 17:15:32
 5906-2735-BA51,CodeMender Gemini 3.6 Flash Global Text Output,0.000007500,2026-08-27 17:15:32
 B9E8-4D51-B276,CodeMender Gemini 3.7 Flash Global Text Output,0.000007500,2026-08-27 17:15:33
+08ED-AB1A-9921,Gemini 3. Transcribe Audio Input Count,0.000002000,2026-08-28 18:07:57
+7341-7579-79A5,Gemini 3.5 Transcribe Live Audio Input Count,0.000003500,2026-08-28 18:07:57
+B9AB-DFA5-BC11,Gemini 3.5 Transcribe Live Text Output Count,0.000021000,2026-08-28 18:07:57
+C291-A76E-87D7,Gemini 3. Transcribe Text Output Count,0.000012000,2026-08-28 18:07:57
