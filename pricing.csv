@@ -227,3 +227,21 @@ B9E8-4D51-B276,CodeMender Gemini 3.7 Flash Global Text Output,0.000007500,2026-0
 7341-7579-79A5,Gemini 3.5 Transcribe Live Audio Input Count,0.000003500,2026-08-28 18:07:57
 B9AB-DFA5-BC11,Gemini 3.5 Transcribe Live Text Output Count,0.000021000,2026-08-28 18:07:57
 C291-A76E-87D7,Gemini 3. Transcribe Text Output Count,0.000012000,2026-08-28 18:07:57
+1187-FF68-C3B2,Gemini 3.8 Flash Global Video Input - Off-Peak Predictions,0.000000750,2026-09-02 10:29:55
+1B1A-3EA9-2537,Gemini 3.8 Flash Regional Video Input - Off-Peak Predictions,0.000000825,2026-09-02 10:29:55
+1C52-4B3A-E3E7,Gemini 3.8 Flash Regional Text Input - Predictions,0.000001650,2026-09-02 10:29:55
+1EA0-44E9-EA8D,Gemini 3.8 Flash Regional Audio Input - Predictions,0.000001650,2026-09-02 10:29:55
+2A35-AC68-14D6,Gemini 3.8 Flash Global Text Input - Predictions,0.000001500,2026-09-02 10:29:55
+379B-6218-1918,Gemini 3.8 Flash Regional Audio Input - Off-Peak Predictions,0.000000825,2026-09-02 10:29:55
+3865-ED70-F8ED,Gemini 3.8 Flash Regional Video Input - Predictions,0.000001650,2026-09-02 10:29:55
+3F73-BE4F-9D07,Gemini 3.8 Flash Regional Text Output - Off-Peak Predictions,0.000004125,2026-09-02 10:29:55
+518D-B7ED-34E8,Gemini 3.8 Flash Global Audio Input - Predictions,0.000001500,2026-09-02 10:29:55
+6A6A-1AFF-3EF5,Gemini 3.8 Flash Global Text Output - Off-Peak Predictions,0.000003750,2026-09-02 10:29:55
+6B41-483B-19B4,Gemini 3.8 Flash Regional Text Input - Off-Peak Predictions,0.000000825,2026-09-02 10:29:55
+6B52-C67A-2C34,Gemini 3.0 Pro Text Output - Deferred Predictions,0.000006000,2026-09-02 10:29:55
+8C46-0EC8-54F9,Gemini 3.8 Flash Regional Text Output - Predictions,0.000008250,2026-09-02 10:29:55
+90FD-DC5F-DC55,Gemini 3.8 Flash Global Text Output - Predictions,0.000007500,2026-09-02 10:29:55
+B65C-8874-2AAC,Gemini 3.8 Flash Global Text Input - Off-Peak Predictions,0.000000750,2026-09-02 10:29:55
+B957-C38A-97A4,Gemini 3.8 Flash Global Audio Input - Off-Peak Predictions,0.000000750,2026-09-02 10:29:55
+E4D4-850A-ABDB,Gemini 3.8 Flash Global Video Input - Predictions,0.000001500,2026-09-02 10:29:55
+E648-C219-1C45,Gemini 3.0 Pro Text Input - Deferred Predictions,0.000001000,2026-09-02 10:29:55
