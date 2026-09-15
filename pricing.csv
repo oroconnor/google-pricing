@@ -245,3 +245,7 @@ B65C-8874-2AAC,Gemini 3.8 Flash Global Text Input - Off-Peak Predictions,0.00000
 B957-C38A-97A4,Gemini 3.8 Flash Global Audio Input - Off-Peak Predictions,0.000000750,2026-09-02 10:29:55
 E4D4-850A-ABDB,Gemini 3.8 Flash Global Video Input - Predictions,0.000001500,2026-09-02 10:29:55
 E648-C219-1C45,Gemini 3.0 Pro Text Input - Deferred Predictions,0.000001000,2026-09-02 10:29:55
+00AD-5CEE-E949,CodeMender Gemini 3.8 Flash Cyber Global Text Output,0.000007500,2026-09-15 10:57:33
+30FB-6B3E-FEEF,CodeMender Gemini 3.8 Flash Cyber Global Text Input,0.000001500,2026-09-15 10:57:33
+CC97-9EC5-C1E8,CodeMender Gemini 3.8 Flash Global Text Input,0.000001500,2026-09-15 10:57:33
+D220-F346-F4DA,CodeMender Gemini 3.8 Flash Global Text Output,0.000007500,2026-09-15 10:57:33
