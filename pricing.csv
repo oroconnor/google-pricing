@@ -249,3 +249,19 @@ E648-C219-1C45,Gemini 3.0 Pro Text Input - Deferred Predictions,0.000001000,2026
 30FB-6B3E-FEEF,CodeMender Gemini 3.8 Flash Cyber Global Text Input,0.000001500,2026-09-15 10:57:33
 CC97-9EC5-C1E8,CodeMender Gemini 3.8 Flash Global Text Input,0.000001500,2026-09-15 10:57:33
 D220-F346-F4DA,CodeMender Gemini 3.8 Flash Global Text Output,0.000007500,2026-09-15 10:57:33
+0478-F364-8CFF,Gemini 3.8 Flash Cyber Regional Text Input - Offpeak Predictions,0.000000825,2026-09-16 10:45:22
+13B3-9A95-A8E0,Gemini 3.8 Flash Cyber Regional Text Output - Offpeak Predictions,0.000004125,2026-09-16 10:45:22
+2640-7E6C-F1B4,Gemini 3.8 Flash Cyber Global Audio Input - Offpeak Predictions,0.000000750,2026-09-16 10:45:22
+546C-CDDC-4BBA,Gemini 3.8 Flash Cyber Regional Text Input - Online Predictions,0.000001650,2026-09-16 10:45:22
+7CA1-B794-A203,Gemini 3.8 Flash Cyber Global Text Input - Online Predictions,0.000001500,2026-09-16 10:45:22
+80F1-C4EF-067C,Gemini 3.8 Flash Cyber Regional Audio Input - Offpeak Predictions,0.000000825,2026-09-16 10:45:22
+8146-4E7B-9362,Gemini 3.8 Flash Cyber Global Text Input - Offpeak Predictions,0.000000750,2026-09-16 10:45:22
+8218-BBE1-5004,Gemini 3.8 Flash Cyber Global Text Output - Online Predictions,0.000007500,2026-09-16 10:45:22
+9AE5-E387-E21B,Gemini 3.8 Flash Cyber Regional Text Output - Online Predictions,0.000008250,2026-09-16 10:45:22
+ADF9-24FF-E110,Gemini 3.8 Flash Cyber Global Video Input - Offpeak Predictions,0.000000750,2026-09-16 10:45:22
+BA5F-4A7C-A17B,Gemini 3.8 Flash Cyber Regional Video Input - Online Predictions,0.000001650,2026-09-16 10:45:22
+E0B1-701B-FC54,Gemini 3.8 Flash Cyber Global Text Output - Offpeak Predictions,0.000003750,2026-09-16 10:45:22
+E2F5-6306-016D,Gemini 3.8 Flash Cyber Regional Video Input - Offpeak Predictions,0.000000825,2026-09-16 10:45:22
+F6CD-7F86-E713,Gemini 3.8 Flash Cyber Global Audio Input - Online Predictions,0.000001500,2026-09-16 10:45:22
+FB4E-23FF-6212,Gemini 3.8 Flash Cyber Global Video Input - Online Predictions,0.000001500,2026-09-16 10:45:22
+FFF8-0E90-0059,Gemini 3.8 Flash Cyber Regional Audio Input - Online Predictions,0.000001650,2026-09-16 10:45:22
