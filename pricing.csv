@@ -265,3 +265,9 @@ E2F5-6306-016D,Gemini 3.8 Flash Cyber Regional Video Input - Offpeak Predictions
 F6CD-7F86-E713,Gemini 3.8 Flash Cyber Global Audio Input - Online Predictions,0.000001500,2026-09-16 10:45:22
 FB4E-23FF-6212,Gemini 3.8 Flash Cyber Global Video Input - Online Predictions,0.000001500,2026-09-16 10:45:22
 FFF8-0E90-0059,Gemini 3.8 Flash Cyber Regional Audio Input - Online Predictions,0.000001650,2026-09-16 10:45:22
+00E2-05FA-A9DB,Gemini 3.8 Live Audio Output - Online Predictions,0.000012000,2026-09-24 11:00:53
+1374-58E5-498B,Gemini 3.8 Live Text Output - Online Predictions,0.000004500,2026-09-24 11:00:53
+306D-D56E-DF5D,Gemini 3.8 Live Video Input - Online Predictions,0.000001000,2026-09-24 11:00:53
+5844-4C37-E093,Gemini 3.8 Live Text Input - Online Predictions,0.000000750,2026-09-24 11:00:53
+6074-825E-383C,Gemini 3.8 Live Video Output - Online Predictions,0.000001000,2026-09-24 11:00:53
+BEAE-85BF-1F6D,Gemini 3.8 Live Audio Input - Online Predictions,0.000003000,2026-09-24 11:00:53
