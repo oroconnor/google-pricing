@@ -271,3 +271,37 @@ FFF8-0E90-0059,Gemini 3.8 Flash Cyber Regional Audio Input - Online Predictions,
 5844-4C37-E093,Gemini 3.8 Live Text Input - Online Predictions,0.000000750,2026-09-24 11:00:53
 6074-825E-383C,Gemini 3.8 Live Video Output - Online Predictions,0.000001000,2026-09-24 11:00:53
 BEAE-85BF-1F6D,Gemini 3.8 Live Audio Input - Online Predictions,0.000003000,2026-09-24 11:00:53
+07AF-B7F6-CB20,Gemini 3.5 Flash Global Audio Input - Deferred Predictions,0.000000750,2026-09-25 11:00:54
+08AA-0B38-6D36,Gemini 3.1 Flash Lite Global Text Input - Deferred Predictions,0.000000125,2026-09-25 11:00:54
+11A9-6279-61AF,Gemini 3.5 Flash Global Text Input - Deferred Predictions,0.000000750,2026-09-25 11:00:54
+1274-C683-AAA2,Gemini 3.1 Flash Lite Global Text Output - Deferred Predictions,0.000000750,2026-09-25 11:00:54
+297A-27BF-52CF,Gemini 3.0 Pro Text Input (Long) - Deferred Predictions,0.000002000,2026-09-25 11:00:54
+2A0E-18F4-7271,Gemini 3.7 Flash Global Text Output - Deferred Predictions,0.000003750,2026-09-25 11:00:54
+2BBA-D60D-30E1,Gemini 3.5 Flash Global Text Output - Deferred Predictions,0.000004500,2026-09-25 11:00:55
+3168-95BD-513E,Gemini 3 Flash Text Input - Deferred Predictions,0.000000250,2026-09-25 11:00:55
+3659-9E6F-A44A,Gemini 3.5 Flash Lite Global Text Output - Deferred Predictions,0.000001250,2026-09-25 11:00:55
+4B71-CE5A-BC15,Gemini 3.7 Flash Global Text Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+52CC-F733-4639,Gemini 3.0 Pro Audio Input (Long) - Deferred Predictions,0.000002000,2026-09-25 11:00:55
+5327-1878-D7DE,Gemini 3.5 Flash Global Video Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+53F1-2CF8-1427,Gemini 3.8 Flash Global Video Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+62AA-BAC8-6EA0,Gemini 3.5 Flash Lite Global Text Input - Deferred Predictions,0.000000150,2026-09-25 11:00:55
+6E44-23D3-A84E,Gemini 3.8 Flash Global Audio Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+75C3-B73D-70CB,Gemini 3.8 Flash Global Text Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+77A2-E31F-A26E,Gemini 3 Flash Text Output - Deferred Predictions,0.000001500,2026-09-25 11:00:55
+7BA1-466A-2B79,Gemini 3.7 Flash Global Video Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+91D8-8903-7E7E,Gemini 3 Flash Video Input - Deferred Predictions,0.000000250,2026-09-25 11:00:55
+A05D-C926-1FE5,Gemini 3.5 Flash Lite Global Audio Input - Deferred Predictions,0.000000150,2026-09-25 11:00:55
+B01A-129B-C68A,Gemini 3.6 Flash Global Text Output - Deferred Predictions,0.000003750,2026-09-25 11:00:55
+B322-E26F-0A5A,Gemini 3 Flash Audio Input - Deferred Predictions,0.000000500,2026-09-25 11:00:55
+BA09-94DA-1CE0,Gemini 3.6 Flash Global Audio Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+C148-337F-E45C,Gemini 3.8 Flash Global Text Output - Deferred Predictions,0.000003750,2026-09-25 11:00:55
+C6C5-14DF-0AF0,Gemini 3.0 Pro Video Input (Long) - Deferred Predictions,0.000002000,2026-09-25 11:00:55
+C95A-8D5A-2779,Gemini 3.0 Pro Video Input - Deferred Predictions,0.000001000,2026-09-25 11:00:55
+CA84-F0B0-4185,Gemini 3.1 Flash Lite Global Video Input - Deferred Predictions,0.000000125,2026-09-25 11:00:55
+CAF3-51F7-C9F5,Gemini 3.1 Flash Lite Global Audio Input - Deferred Predictions,0.000000250,2026-09-25 11:00:55
+CFA1-B087-C41E,Gemini 3.0 Pro Audio Input - Deferred Predictions,0.000001000,2026-09-25 11:00:55
+D6C1-C1D2-079B,Gemini 3.7 Flash Global Audio Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+DBA5-AEF4-8C32,Gemini 3.5 Flash Lite Global Video Input - Deferred Predictions,0.000000150,2026-09-25 11:00:55
+E64E-87EE-6C3C,Gemini 3.0 Pro Text Output (Long) - Deferred Predictions,0.000009000,2026-09-25 11:00:55
+EAF8-CB15-2CDE,Gemini 3.6 Flash Global Video Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+FEDC-4A48-2145,Gemini 3.6 Flash Global Text Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
