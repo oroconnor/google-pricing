@@ -305,3 +305,17 @@ DBA5-AEF4-8C32,Gemini 3.5 Flash Lite Global Video Input - Deferred Predictions,0
 E64E-87EE-6C3C,Gemini 3.0 Pro Text Output (Long) - Deferred Predictions,0.000009000,2026-09-25 11:00:55
 EAF8-CB15-2CDE,Gemini 3.6 Flash Global Video Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
 FEDC-4A48-2145,Gemini 3.6 Flash Global Text Input - Deferred Predictions,0.000000750,2026-09-25 11:00:55
+21DA-32FD-29AB,Gemini Nano Banana 2.1 Global Text Output - Online Predictions,0.000007500,2026-10-06 12:39:42
+2AC0-7C7E-3EEB,Gemini 3.5 Flash Lite Tuned Regional Audio Input - Predictions,0.000000495,2026-10-06 12:39:42
+2CD2-C6C2-CD6C,Gemini Nano Banana 2.1 Global Video Input - Offpeak Predictions,0.000000750,2026-10-06 12:39:42
+2FDF-704F-6A2F,Gemini 3.0 / 3.1 Pro Text Input - Offpeak Predictions,0.000001000,2026-10-06 12:39:42
+4C93-BA3B-1283,Gemini 3.0 / 3.1 Pro Video Input - Offpeak Predictions,0.000001000,2026-10-06 12:39:42
+6BF1-F39B-8415,Gemini Nano Banana 2.1 Global Video Input - Online Predictions,0.000001500,2026-10-06 12:39:42
+720D-2D69-2EBA,Gemini 3.5 Flash Lite Tuned Regional Video Input - Predictions,0.000000495,2026-10-06 12:39:42
+84FE-7DB4-CFAF,Gemini Nano Banana 2.1 Global Text Output - Offpeak Predictions,0.000003750,2026-10-06 12:39:42
+991C-617C-B29A,Gemini Nano Banana 2.1 Global Text Input - Offpeak Predictions,0.000000750,2026-10-06 12:39:43
+99B9-F13B-3C17,Gemini 3.5 Flash Lite Tuned Regional Text Output - Predictions,0.000004125,2026-10-06 12:39:43
+C63C-68B9-EF47,Gemini 3.5 Flash Lite Tuned Regional Text Input - Predictions,0.000000495,2026-10-06 12:39:43
+CA72-99BF-44D8,Gemini Nano Banana 2.1 Global Text Input - Online Predictions,0.000001500,2026-10-06 12:39:43
+CC25-5434-2318,Gemini 3.0 / 3.1 Pro Audio Input - Offpeak Predictions,0.000001000,2026-10-06 12:39:43
+EC49-1C75-3EDA,Gemini 3.0 / 3.1 Pro Text Output - Offpeak Predictions,0.000006000,2026-10-06 12:39:43
