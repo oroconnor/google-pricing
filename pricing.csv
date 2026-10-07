@@ -319,3 +319,21 @@ C63C-68B9-EF47,Gemini 3.5 Flash Lite Tuned Regional Text Input - Predictions,0.0
 CA72-99BF-44D8,Gemini Nano Banana 2.1 Global Text Input - Online Predictions,0.000001500,2026-10-06 12:39:43
 CC25-5434-2318,Gemini 3.0 / 3.1 Pro Audio Input - Offpeak Predictions,0.000001000,2026-10-06 12:39:43
 EC49-1C75-3EDA,Gemini 3.0 / 3.1 Pro Text Output - Offpeak Predictions,0.000006000,2026-10-06 12:39:43
+03AA-CA38-B9C3,Gemini 4 Argon Cyber Permissive Global Text Input - Deferred Predictions,0.000002000,2026-10-07 12:32:57
+0936-6999-539B,Gemini 4 Argon Cyber Permissive Global Audio Input - Deferred Predictions,0.000002000,2026-10-07 12:32:57
+0F29-C044-BCAE,Gemini 4 Argon Cyber Permissive Global Text Input - Online Predictions,0.000004000,2026-10-07 12:32:57
+414C-60D4-258E,Gemini 4 Argon Cyber Permissive Global Audio Input - Online Predictions,0.000004000,2026-10-07 12:32:57
+42C7-5C44-3E90,Gemini 4 Argon Cyber Permissive Global Audio Input - Offpeak Predictions,0.000002000,2026-10-07 12:32:57
+4E06-7A37-14DD,Gemini 4 Argon Cyber Permissive Regional Text Output - Online Predictions,0.000022000,2026-10-07 12:32:57
+5EFE-B1B3-F1B0,Gemini 4 Argon Cyber Permissive Regional Text Input - Online Predictions,0.000004400,2026-10-07 12:32:57
+63F9-F70C-D8BC,Gemini 4 Argon Cyber Permissive Global Text Output - Deferred Predictions,0.000010000,2026-10-07 12:32:57
+8884-78BD-D39B,Gemini 4 Argon Cyber Permissive Global Text Output - Offpeak Predictions,0.000010000,2026-10-07 12:32:57
+8E60-56B5-782A,Gemini 4 Argon Cyber Permissive Regional Audio Input - Online Predictions,0.000004400,2026-10-07 12:32:58
+905B-6355-BE45,CodeMender Gemini 4 Argon Cyber Permissive Global Text Input,0.000004000,2026-10-07 12:32:58
+9466-8039-22BF,Gemini 4 Argon Cyber Permissive Global Video Input - Online Predictions,0.000004000,2026-10-07 12:32:58
+9903-1CE7-2B72,CodeMender Gemini 4 Argon Cyber Permissive Global Text Output,0.000020000,2026-10-07 12:32:58
+A5BD-15B7-8E95,Gemini 4 Argon Cyber Permissive Global Text Output - Online Predictions,0.000020000,2026-10-07 12:32:58
+AD2D-1232-6DAD,Gemini 4 Argon Cyber Permissive Global Video Input - Deferred Predictions,0.000002000,2026-10-07 12:32:58
+B57F-5470-D9C8,Gemini 4 Argon Cyber Permissive Regional Video Input - Online Predictions,0.000004400,2026-10-07 12:32:58
+BA0D-B853-D579,Gemini 4 Argon Cyber Permissive Global Video Input - Offpeak Predictions,0.000002000,2026-10-07 12:32:58
+CC7A-877E-EABE,Gemini 4 Argon Cyber Permissive Global Text Input - Offpeak Predictions,0.000002000,2026-10-07 12:32:58
