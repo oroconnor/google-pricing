@@ -355,3 +355,15 @@ BA4F-D8FB-D5F2,CodeMender Gemini 4 Argon Global Text Input,0.000004000,2026-10-1
 BF8A-97A5-15A7,Gemini 4 Argon Global Video Input - Deferred Predictions,0.000002000,2026-10-13 13:26:08
 C90C-F3F3-3BDE,Gemini 4 Argon Global Text Output - Deferred Predictions,0.000010000,2026-10-13 13:26:08
 EA0E-13A1-6B07,Gemini 4 Argon Regional Text Output - Online Predictions,0.000022000,2026-10-13 13:26:08
+07D1-391D-C968,Gemini 3.5 Flash Lite Tuned Global Text Output - Predictions,0.000002500,2026-10-20 10:51:21
+0C07-B776-B661,Gemini 3.5 Flash Tuned Global Text Input - Predictions,0.000001500,2026-10-20 10:51:21
+3266-67EA-7456,Gemini 3.1 Flash Lite Tuned Global Text Input - Predictions,0.000000250,2026-10-20 10:51:21
+608D-DB95-2D5D,Gemini 3.5 Flash Tuned Global Text Output - Predictions,0.000009000,2026-10-20 10:51:21
+60A6-A1DE-5351,Gemini 3.1 Flash Lite Tuned Global Text Output - Predictions,0.000001500,2026-10-20 10:51:21
+77BC-6AE7-74A8,Gemini 3.5 Flash Tuned Global Audio Input - Predictions,0.000001500,2026-10-20 10:51:21
+B488-7894-AACE,Gemini 3.1 Flash Lite Tuned Global Video Input - Predictions,0.000000250,2026-10-20 10:51:21
+C948-25E2-37A7,Gemini 3.1 Flash Lite Tuned Global Audio Input - Predictions,0.000000500,2026-10-20 10:51:21
+D7D4-701D-1AA0,Gemini 3.5 Flash Lite Tuned Global Text Input - Predictions,0.000000300,2026-10-20 10:51:21
+DD72-AE98-4B90,Gemini 3.5 Flash Lite Tuned Global Video Input - Predictions,0.000000300,2026-10-20 10:51:21
+F4DC-9C6E-6F62,Gemini 3.5 Flash Tuned Global Video Input - Predictions,0.000001500,2026-10-20 10:51:21
+F926-42B7-2CE5,Gemini 3.5 Flash Lite Tuned Global Audio Input - Predictions,0.000000300,2026-10-20 10:51:21
