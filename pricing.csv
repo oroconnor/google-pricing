@@ -367,3 +367,7 @@ D7D4-701D-1AA0,Gemini 3.5 Flash Lite Tuned Global Text Input - Predictions,0.000
 DD72-AE98-4B90,Gemini 3.5 Flash Lite Tuned Global Video Input - Predictions,0.000000300,2026-10-20 10:51:21
 F4DC-9C6E-6F62,Gemini 3.5 Flash Tuned Global Video Input - Predictions,0.000001500,2026-10-20 10:51:21
 F926-42B7-2CE5,Gemini 3.5 Flash Lite Tuned Global Audio Input - Predictions,0.000000300,2026-10-20 10:51:21
+0613-4E0B-5B2E,Gemini Robotics ER 2 Global Text Input - Online Predictions,0.000002000,2026-10-27 11:30:54
+3BF1-B062-1B3B,Gemini Robotics ER 2 Global Audio Input - Online Predictions,0.000002000,2026-10-27 11:30:54
+AE75-0A66-6B40,Gemini Robotics ER 2 Global Text Output - Online Predictions,0.000010000,2026-10-27 11:30:55
+E331-4BAE-B9F2,Gemini Robotics ER 2 Global Video Input - Online Predictions,0.000002000,2026-10-27 11:30:55
