@@ -408,3 +408,11 @@ EC3E-9FBC-CD76,Gemini 4 Carbon Global Text Output - Offpeak Predictions,0.000010
 FA30-D839-62E2,Gemini 4 Carbon Cyber Permissive Global Audio Input - Deferred Predictions,0.000002000,2026-11-10 14:12:34
 FB5D-6904-1E93,Gemini 4 Carbon Cyber Permissive Global Video Input - Online Predictions,0.000004000,2026-11-10 14:12:34
 FD04-B170-B999,Gemini 4 Carbon Cyber Permissive Global Text Input - Deferred Predictions,0.000002000,2026-11-10 14:12:34
+7F3C-169C-8FDF,CodeMender Gemini 4 Carbon Cyber Permissive Regional Text Input,0.000004400,2026-11-11 13:27:50
+A2FF-740D-EFCE,CodeMender Gemini 4 Carbon Global Text Input,0.000004000,2026-11-11 13:27:50
+B3AF-61D3-F698,CodeMender Gemini 4 Carbon Regional Text Input,0.000004400,2026-11-11 13:27:50
+B564-B6C4-2564,CodeMender Gemini 4 Carbon Cyber Permissive Regional Text Output,0.000022000,2026-11-11 13:27:50
+D264-580B-2938,CodeMender Gemini 4 Carbon Regional Text Output,0.000022000,2026-11-11 13:27:50
+D951-DC94-2838,CodeMender Gemini 4 Carbon Cyber Permissive Global Text Output,0.000020000,2026-11-11 13:27:50
+DB94-7979-82F5,CodeMender Gemini 4 Carbon Cyber Permissive Global Text Input,0.000004000,2026-11-11 13:27:50
+E999-283C-A688,CodeMender Gemini 4 Carbon Global Text Output,0.000020000,2026-11-11 13:27:50
